@@ -1,4 +1,4 @@
-# Hi, I'm Andria Njoku 👋🏿
+# Hi, I'm Andria Njoku 👋
 
 **Systems Architect • Android Specialist • Founder of [KarmaPolitics](https://karmapolitics.co.uk)**
 
