@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="356" viewBox="0 0 840 356" role="img" aria-labelledby="title desc">
+<title id="title">Tools I work with</title><desc id="desc">Mobile: Kotlin and Jetpack Compose. Interfaces: React Native and TypeScript. Automation: Python and APIs. Systems: SQL and AWS.</desc>
+<rect width="840" height="356" rx="6" fill="#111619"/>
+<path d="M24 0v356M816 0v356M0 60h840M0 332h840" stroke="#293034" stroke-width="1"/>
+<path d="M24 0h110" stroke="#e7a35b" stroke-width="4"/>
+<g fill="#a9b3b7" font-family="monospace" font-size="12" letter-spacing="2"><text x="44" y="36">ENGINEERING / TOOLKIT</text><text x="660" y="36">HUMAN LED</text></g>
+<g stroke="#30393d"><path d="M420 80v230M44 192h752"/></g>
+<g font-family="monospace" font-size="12" letter-spacing="2" fill="#e7a35b"><text x="84" y="104">01 / MOBILE</text><text x="480" y="104">02 / INTERFACES</text><text x="84" y="224">03 / AUTOMATION</text><text x="480" y="224">04 / SYSTEMS</text></g>
+<g fill="#f1eee6" font-family="Arial, sans-serif" font-size="24" font-weight="600"><text x="84" y="140">Kotlin</text><text x="480" y="140">React Native</text><text x="84" y="260">Python</text><text x="480" y="260">SQL</text></g>
+<g fill="#aeb9bd" font-family="Arial, sans-serif" font-size="18"><text x="84" y="167">Jetpack Compose</text><text x="480" y="167">TypeScript</text><text x="84" y="287">REST / GraphQL</text><text x="480" y="287">AWS</text></g>
+<g fill="none" stroke="#e7a35b" stroke-width="1.6"><rect x="46" y="112" width="20" height="33" rx="3"/><path d="M51 139h10M442 117l-8 10 8 10m14-20 8 10-8 10M446 140l6-26"/><circle cx="56" cy="247" r="12"/><path d="M56 229v8m0 20v8m-18-18h8m20 0h8M56 243v8m-4-4h8"/><ellipse cx="448" cy="237" rx="12" ry="5"/><path d="M436 237v19c0 7 24 7 24 0v-19m-24 10c0 7 24 7 24 0"/></g>
+<g font-family="monospace" font-size="10" letter-spacing="2" fill="#889599"><text x="44" y="348">BUILD WITH INTENT.</text><text x="608" y="348">MOBILE / WEB / SYSTEMS</text></g>
+</svg>
