@@ -1,13 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="356" viewBox="0 0 840 356" role="img" aria-labelledby="title desc">
-<title id="title">Tools I work with</title><desc id="desc">Mobile: Kotlin and Jetpack Compose. Interfaces: React Native and TypeScript. Automation: Python and APIs. Systems: SQL and AWS.</desc>
-<rect width="840" height="356" rx="6" fill="#111619"/>
-<path d="M24 0v356M816 0v356M0 60h840M0 332h840" stroke="#293034" stroke-width="1"/>
-<path d="M24 0h110" stroke="#e7a35b" stroke-width="4"/>
-<g fill="#a9b3b7" font-family="monospace" font-size="12" letter-spacing="2"><text x="44" y="36">ENGINEERING / TOOLKIT</text><text x="660" y="36">HUMAN LED</text></g>
-<g stroke="#30393d"><path d="M420 80v230M44 192h752"/></g>
-<g font-family="monospace" font-size="12" letter-spacing="2" fill="#e7a35b"><text x="84" y="104">01 / MOBILE</text><text x="480" y="104">02 / INTERFACES</text><text x="84" y="224">03 / AUTOMATION</text><text x="480" y="224">04 / SYSTEMS</text></g>
-<g fill="#f1eee6" font-family="Arial, sans-serif" font-size="24" font-weight="600"><text x="84" y="140">Kotlin</text><text x="480" y="140">React Native</text><text x="84" y="260">Python</text><text x="480" y="260">SQL</text></g>
-<g fill="#aeb9bd" font-family="Arial, sans-serif" font-size="18"><text x="84" y="167">Jetpack Compose</text><text x="480" y="167">TypeScript</text><text x="84" y="287">REST / GraphQL</text><text x="480" y="287">AWS</text></g>
-<g fill="none" stroke="#e7a35b" stroke-width="1.6"><rect x="46" y="112" width="20" height="33" rx="3"/><path d="M51 139h10M442 117l-8 10 8 10m14-20 8 10-8 10M446 140l6-26"/><circle cx="56" cy="247" r="12"/><path d="M56 229v8m0 20v8m-18-18h8m20 0h8M56 243v8m-4-4h8"/><ellipse cx="448" cy="237" rx="12" ry="5"/><path d="M436 237v19c0 7 24 7 24 0v-19m-24 10c0 7 24 7 24 0"/></g>
-<g font-family="monospace" font-size="10" letter-spacing="2" fill="#889599"><text x="44" y="348">BUILD WITH INTENT.</text><text x="608" y="348">MOBILE / WEB / SYSTEMS</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="560" viewBox="0 0 840 560" role="img" aria-labelledby="title desc">
+<title id="title">Engineering stack</title><desc id="desc">Mobile app development: Android, Kotlin, Jetpack Compose and React Native / Expo. Backend: Kotlin and Ktor. Web: TypeScript and React. Infrastructure: AWS and SQL. No Python.</desc>
+<rect width="840" height="560" rx="12" fill="#0a0c18"/>
+<path d="M0 0H840V8H0Z" fill="#ff493f"/><path d="M26 80H814M26 526H814" stroke="#34334c"/>
+<text x="32" y="53" font-family="DejaVu Sans,sans-serif" font-size="32" font-weight="bold" fill="#fff4df">ENGINEERING STACK</text>
+<path d="M694 34h38m8 0h38m8 0h24" stroke="#54f4ef" stroke-width="4"/>
+<rect x="26" y="99" width="788" height="142" rx="8" fill="#17172a"/>
+<path d="M26 99h5v142h-5" fill="#ff493f"/>
+<text x="48" y="132" font-family="DejaVu Sans,sans-serif" font-size="23" font-weight="bold" fill="#ff6657">MOBILE APP DEVELOPMENT</text>
+<text x="48" y="177" font-family="DejaVu Sans,sans-serif" font-size="31" font-weight="bold" fill="#fff4df">Android · Kotlin · Jetpack Compose</text>
+<text x="48" y="216" font-family="DejaVu Sans,sans-serif" font-size="26" fill="#d4d9f4">React Native / Expo</text>
+<rect x="26" y="257" width="382" height="112" rx="8" fill="#17172a"/>
+<rect x="424" y="257" width="390" height="112" rx="8" fill="#17172a"/>
+<text x="48" y="291" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="bold" fill="#54f4ef">BACKEND</text>
+<text x="446" y="291" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="bold" fill="#54f4ef">WEB</text>
+<text x="48" y="340" font-family="DejaVu Sans,sans-serif" font-size="32" font-weight="bold" fill="#fff4df">Kotlin · Ktor</text>
+<text x="446" y="340" font-family="DejaVu Sans,sans-serif" font-size="30" font-weight="bold" fill="#fff4df">TypeScript · React</text>
+<rect x="26" y="385" width="788" height="112" rx="8" fill="#17172a"/>
+<text x="48" y="419" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="bold" fill="#54f4ef">INFRASTRUCTURE &amp; DATA</text>
+<text x="48" y="466" font-family="DejaVu Sans,sans-serif" font-size="32" font-weight="bold" fill="#fff4df">AWS · SQL</text>
+<path d="M672 443h120m-94 12h94m-70 12h70" stroke="#ff493f" stroke-width="3"/>
 </svg>

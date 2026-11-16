@@ -6,7 +6,7 @@ I build software that helps people understand what's happening, make better deci
 
 My foundation is Android, Kotlin and Jetpack Compose. These days, I work across mobile, web, backend services and automation. The aim is the same: solve real problems with systems people can understand and trust.
 
-![Selected work. Useful software. Human judgement.](assets/selected-work.svg)
+![Cyberpunk Monk: a contemplative figure above a vivid red and cyan future city.](assets/cyberpunk-monk.webp)
 
 ## Selected projects
 
@@ -44,9 +44,12 @@ That idea runs through my engineering too. I want technology to do useful work a
 
 ## Tools I work with
 
-![Engineering toolkit: Kotlin and Jetpack Compose; React Native and TypeScript; Python and REST / GraphQL; SQL and AWS.](assets/engineering-toolkit.svg)
+![Mobile app development: Android, Kotlin, Jetpack Compose, React Native and Expo. Backend: Kotlin and Ktor. Web: TypeScript and React. Infrastructure and data: AWS and SQL.](assets/engineering-toolkit.svg)
 
-Kotlin · Jetpack Compose · React Native / Expo · TypeScript · Python · SQL · REST / GraphQL · AWS
+**Mobile app development:** Android · Kotlin · Jetpack Compose · React Native / Expo  
+**Backend:** Kotlin · Ktor  
+**Web:** TypeScript · React  
+**Infrastructure & data:** AWS · SQL
 
 ---
 
