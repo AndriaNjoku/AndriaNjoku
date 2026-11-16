@@ -6,7 +6,7 @@ I build software that helps people understand what's happening, make better deci
 
 My foundation is Android, Kotlin and Jetpack Compose. These days, I work across mobile, web, backend services and automation. The aim is the same: solve real problems with systems people can understand and trust.
 
-![Cyberpunk Monk: a contemplative figure above a vivid red and cyan future city.](assets/cyberpunk-monk.webp)
+![A future London Overground station: intricate steelwork, brick arches, an orange train and rain-lit city towers.](assets/cyberpunk-monk.webp)
 
 ## Selected projects
 
