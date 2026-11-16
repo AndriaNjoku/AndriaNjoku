@@ -2,8 +2,6 @@
 
 **Senior Software Engineer · Founder of [Karma Politics](https://karmapolitics.co.uk)**
 
-I’m a software engineer and creator of Karma Politics, interested in AI infrastructure and building useful applications.
-
 My foundation is Android, Kotlin and Jetpack Compose. These days, I work across mobile, web, backend services and automation. The aim is the same: solve real problems with systems people can understand and trust.
 
 ![A future London Overground station: intricate steelwork, brick arches, an orange train and rain-lit city towers.](assets/cyberpunk-monk.webp)
