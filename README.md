@@ -6,7 +6,9 @@ I build software that helps people understand what's happening, make better deci
 
 My foundation is Android, Kotlin and Jetpack Compose. These days, I work across mobile, web, backend services and automation. The aim is the same: solve real problems with systems people can understand and trust.
 
-## What I'm building
+![Selected work. Useful software. Human judgement.](assets/selected-work.svg)
+
+## Selected projects
 
 ### [Karma Politics](https://karmapolitics.co.uk)
 A product I've built to make UK parliamentary activity easier to follow and check against its sources, from the interfaces people use to the services that organise the underlying records.
@@ -41,6 +43,8 @@ I'm also working on **Nudge**, exploring how to make coding-agent activity easie
 That idea runs through my engineering too. I want technology to do useful work and leave us more room to think, create and live.
 
 ## Tools I work with
+
+![Engineering toolkit: Kotlin and Jetpack Compose; React Native and TypeScript; Python and REST / GraphQL; SQL and AWS.](assets/engineering-toolkit.svg)
 
 Kotlin · Jetpack Compose · React Native / Expo · TypeScript · Python · SQL · REST / GraphQL · AWS
 
