@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="112" viewBox="0 0 840 112" role="img" aria-labelledby="title desc">
+<title id="title">Selected work</title><desc id="desc">Original geometric graphic: a saffron sun above a restrained charcoal city grid. Software with purpose, made with care.</desc>
+<rect width="840" height="112" rx="6" fill="#111619"/>
+<g stroke="#2b353a" fill="none"><path d="M0 94h840M0 105h840M540 72h300M550 82h290M610 112l68-65m-7 65 22-65m40 65-25-65m84 65-68-65"/><path d="M582 94V62h18v32m14 0V42h24v52m118 0V53h16v41m15 0V30h22v64"/></g>
+<circle cx="699" cy="47" r="26" fill="#e7a35b"/><path d="M663 61h72m-76 8h80" stroke="#111619" stroke-width="4"/>
+<path d="M24 0h110" stroke="#e7a35b" stroke-width="4"/>
+<text x="28" y="43" fill="#a9b3b7" font-family="monospace" font-size="11" letter-spacing="3">SELECTED WORK</text>
+<text x="28" y="76" fill="#f1eee6" font-family="Arial, sans-serif" font-size="24" font-weight="600">Useful software. Human judgement.</text>
+</svg>
