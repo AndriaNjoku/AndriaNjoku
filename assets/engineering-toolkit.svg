@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="560" viewBox="0 0 840 560" role="img" aria-labelledby="title desc">
-<title id="title">Engineering stack</title><desc id="desc">Mobile app development: Android, Kotlin, Jetpack Compose and React Native / Expo. Backend: Kotlin and Ktor. Web: TypeScript and React. Infrastructure: AWS and SQL. No Python.</desc>
+<title id="title">Engineering stack</title><desc id="desc">Mobile app development: Android, Kotlin, Jetpack Compose and React Native / Expo. Backend: Kotlin and Ktor. Web: TypeScript and React. Infrastructure: AWS and SQL.</desc>
 <rect width="840" height="560" rx="12" fill="#0a0c18"/>
 <path d="M0 0H840V8H0Z" fill="#ff493f"/><path d="M26 80H814M26 526H814" stroke="#34334c"/>
 <text x="32" y="53" font-family="DejaVu Sans,sans-serif" font-size="32" font-weight="bold" fill="#fff4df">ENGINEERING STACK</text>
