@@ -25,16 +25,14 @@ Open-source experiments in turning wearable transcripts into structured notes, t
 
 *Experimental assistant tooling, not a finished autonomous service.*
 
-## Interface craft
-
-A couple of hands-on examples from my Android work:
+## Android UI projects
 
 - **[Compose Animation Playground](https://github.com/AndriaNjoku/Compose-Animation-Playground)**: motion, interactive node graphs and product-interface experiments in Jetpack Compose.
 - **[Particle Emitter](https://github.com/AndriaNjoku/Particle-Emitter)**: a Compose experiment in particles and visual effects.
 
-## On the workbench
+## Projects in development
 
-I'm also working on **Nudge**, exploring how to make coding-agent activity easier to understand and review. Other prototypes explore social discovery and organising property documents. These projects are still taking shape, so I'm keeping the detail private for now.
+**Nudge** is a private project focused on making coding-agent activity easier to understand and review. Other early-stage projects remain private.
 
 ## The wider vision
 
