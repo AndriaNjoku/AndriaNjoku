@@ -9,9 +9,9 @@ My foundation is Android, Kotlin and Jetpack Compose. These days, I work across 
 ## What I'm building
 
 ### [Karma Politics](https://karmapolitics.co.uk)
-Tools to make UK parliamentary activity easier to follow and check against its sources. I'm building across the product, from the interfaces people use to the services that organise the underlying records.
+A product I've built to make UK parliamentary activity easier to follow and check against its sources, from the interfaces people use to the services that organise the underlying records.
 
-*In development. Less “trust me.” More “show me the record.”*
+*Less “trust me.” More “show me the record.”*
 
 ### [Monzo Bot](https://github.com/AndriaNjoku/monzo-bot)
 An unofficial, open-source Android budgeting companion built around transaction exports, category budgets and optional AI assistance. A personal project I'm building for myself and sharing with others.
