@@ -4,7 +4,7 @@
 
 My foundation is Android, Kotlin and Jetpack Compose. These days, I work across mobile, web, backend services and automation. The aim is the same: solve real problems with systems people can understand and trust.
 
-![A future London Overground station: intricate steelwork, brick arches, an orange train and rain-lit city towers.](assets/cyberpunk-monk.webp)
+![Cyberpunk Monk interior: warm dining space, meditation corner, glass floor above the city and a cyan-lit technology workspace.](assets/cyberpunk-monk.webp)
 
 ## Selected projects
 
