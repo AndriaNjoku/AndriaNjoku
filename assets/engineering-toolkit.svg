@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="560" viewBox="0 0 840 560" role="img" aria-labelledby="title desc">
-<title id="title">Engineering stack</title><desc id="desc">Mobile app development: Android, Kotlin, Jetpack Compose and React Native / Expo. Backend: Kotlin and Ktor. Web: TypeScript and React. Infrastructure: AWS and SQL.</desc>
-<rect width="840" height="560" rx="12" fill="#0a0c18"/>
-<path d="M0 0H840V8H0Z" fill="#ff493f"/><path d="M26 80H814M26 526H814" stroke="#34334c"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="884" viewBox="0 0 840 884" role="img" aria-labelledby="title desc">
+<title id="title">Engineering stack</title><desc id="desc">Mobile app development: Android, Kotlin, Jetpack Compose and React Native / Expo. Backend: Kotlin and Ktor. Web: TypeScript and React. AI pipelines: OpenAI APIs, embeddings, batch inference, retrieval, structured outputs and evidence review. Cloud: AWS, Terraform, ECS Fargate and EventBridge. Data: MySQL, Flyway, REST and GraphQL. Delivery: GitHub Actions, CloudWatch and New Relic.</desc>
+<rect width="840" height="884" rx="12" fill="#0a0c18"/>
+<path d="M0 0H840V8H0Z" fill="#ff493f"/><path d="M26 80H814M26 850H814" stroke="#34334c"/>
 <text x="32" y="53" font-family="DejaVu Sans,sans-serif" font-size="32" font-weight="bold" fill="#fff4df">ENGINEERING STACK</text>
 <path d="M694 34h38m8 0h38m8 0h24" stroke="#54f4ef" stroke-width="4"/>
 <rect x="26" y="99" width="788" height="142" rx="8" fill="#17172a"/>
@@ -15,8 +15,15 @@
 <text x="446" y="291" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="bold" fill="#54f4ef">WEB</text>
 <text x="48" y="340" font-family="DejaVu Sans,sans-serif" font-size="32" font-weight="bold" fill="#fff4df">Kotlin · Ktor</text>
 <text x="446" y="340" font-family="DejaVu Sans,sans-serif" font-size="30" font-weight="bold" fill="#fff4df">TypeScript · React</text>
-<rect x="26" y="385" width="788" height="112" rx="8" fill="#17172a"/>
-<text x="48" y="419" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="bold" fill="#54f4ef">INFRASTRUCTURE &amp; DATA</text>
-<text x="48" y="466" font-family="DejaVu Sans,sans-serif" font-size="32" font-weight="bold" fill="#fff4df">AWS · SQL</text>
-<path d="M672 443h120m-94 12h94m-70 12h70" stroke="#ff493f" stroke-width="3"/>
+<rect x="26" y="385" width="788" height="154" rx="8" fill="#17172a"/>
+<text x="48" y="419" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="bold" fill="#ff6657">AI APPLICATIONS &amp; PIPELINES</text>
+<text x="48" y="464" font-family="DejaVu Sans,sans-serif" font-size="29" font-weight="bold" fill="#fff4df">OpenAI APIs · Embeddings · Batch inference</text>
+<text x="48" y="504" font-family="DejaVu Sans,sans-serif" font-size="25" fill="#d4d9f4">Retrieval · Structured outputs · Evidence review</text>
+<rect x="26" y="555" width="788" height="154" rx="8" fill="#17172a"/>
+<text x="48" y="589" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="bold" fill="#54f4ef">CLOUD INFRASTRUCTURE &amp; DATA</text>
+<text x="48" y="634" font-family="DejaVu Sans,sans-serif" font-size="29" font-weight="bold" fill="#fff4df">AWS · Terraform · ECS Fargate · EventBridge</text>
+<text x="48" y="674" font-family="DejaVu Sans,sans-serif" font-size="25" fill="#d4d9f4">MySQL · Flyway · REST / GraphQL</text>
+<rect x="26" y="725" width="788" height="104" rx="8" fill="#17172a"/>
+<text x="48" y="759" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="bold" fill="#54f4ef">DELIVERY &amp; OBSERVABILITY</text>
+<text x="48" y="803" font-family="DejaVu Sans,sans-serif" font-size="28" font-weight="bold" fill="#fff4df">GitHub Actions · CloudWatch · New Relic</text>
 </svg>
