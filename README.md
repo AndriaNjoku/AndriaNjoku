@@ -2,7 +2,7 @@
 
 **Senior Software Engineer · Founder of [Karma Politics](https://karmapolitics.co.uk)**
 
-I build software that helps people understand what's happening, make better decisions and stay in control. My interests span AI infrastructure, useful AI applications and the craft of making an interface feel right.
+I’m a software engineer and creator of Karma Politics, interested in AI infrastructure and building useful applications.
 
 My foundation is Android, Kotlin and Jetpack Compose. These days, I work across mobile, web, backend services and automation. The aim is the same: solve real problems with systems people can understand and trust.
 
