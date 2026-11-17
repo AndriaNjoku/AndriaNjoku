@@ -1,0 +1,50 @@
+{
+  "schema": "nudge.evidence-passport/v1",
+  "subject": {
+    "kind": "project",
+    "name": "Karma Politics",
+    "summary": "A project evidence summary prepared for selective sharing."
+  },
+  "generated_at": "2026-11-17T17:36:58.676Z",
+  "historical": [
+    {
+      "label": "Historical evidence preserved",
+      "period": "Snapshot recorded 17 November 2026; activity period unknown",
+      "summary": "A private evidence archive exists. Its contents are withheld. This imported summary does not establish Nudge-observed coverage."
+    }
+  ],
+  "coverage": [],
+  "gaps": [],
+  "statistics": [],
+  "assessments": [
+    {
+      "category": "Functional acceptance",
+      "result": "not assessed",
+      "scope": "",
+      "reference": "",
+      "provenance": "self-declared"
+    },
+    {
+      "category": "Security and privacy",
+      "result": "not assessed",
+      "scope": "",
+      "reference": "",
+      "provenance": "self-declared"
+    },
+    {
+      "category": "Human review",
+      "result": "not assessed",
+      "scope": "",
+      "reference": "",
+      "provenance": "self-declared"
+    },
+    {
+      "category": "Evidence integrity",
+      "result": "not assessed",
+      "scope": "",
+      "reference": "",
+      "provenance": "self-declared"
+    }
+  ],
+  "digest": "33de33f56f3b5e9bdc762436e8f36a46c6f1d9786ecbaba8df2a7e63909a68d5"
+}
