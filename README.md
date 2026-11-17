@@ -17,6 +17,10 @@ I’ve built across the product, from its mobile and web interfaces to the data 
 
 The infrastructure runs on Terraform-managed AWS services, including ECS Fargate and EventBridge jobs, with MySQL, Flyway migrations and operational monitoring.
 
+*Early Nudge example: [Karma Politics selected evidence passport](https://github.com/AndriaNjoku/AndriaNjoku/blob/2811e277bd803a26f0b0a9f8fdd39fb1ce4f3554/passports/karma-politics-evidence-2026-11-17.md). Self-declared identity; the listed categories have not been assessed. Private evidence remains withheld.*
+
+<a href="https://github.com/AndriaNjoku/AndriaNjoku/blob/2811e277bd803a26f0b0a9f8fdd39fb1ce4f3554/passports/karma-politics-evidence-2026-11-17.md"><img src="assets/karma-politics-evidence-passport-2026-11-17.svg" alt="QR linking to the selected Karma Politics evidence passport" width="212" height="212"></a>
+
 ### [Monzo Bot](https://github.com/AndriaNjoku/monzo-bot)
 An unofficial, open-source Android budgeting companion built around transaction exports, category budgets and optional AI assistance. A personal project I'm building for myself and sharing with others. React Native/TypeScript UI and Kotlin native integrations sit above deterministic, on-device financial calculations. AI tools are optional and read-only, with explicit consent rather than access to move money.
 
