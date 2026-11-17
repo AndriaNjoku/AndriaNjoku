@@ -9,11 +9,13 @@ My foundation is Android, Kotlin and Jetpack Compose. These days, I work across 
 ## Selected projects
 
 ### [Karma Politics](https://karmapolitics.co.uk)
-A product I've built to make UK parliamentary activity easier to follow and check against its sources, from the interfaces people use to the services that organise the underlying records.
+I built Karma Politics, a UK political accountability platform that brings together parliamentary records, MP activity, legislation, news and community participation. It gives people practical tools to stay current, follow the politicians and issues they care about, and examine what their representatives actually say and do—with links back to the evidence.
 
-Behind the product: Kotlin/Ktor services, parliamentary-source ingestion, embedding-based classification and source-grounded AI review. Structured outputs, independent verification and audit trails keep generated analysis inspectable; durable background jobs and processing budgets keep the pipeline bounded.
+The platform combines personalised feeds, MP profiles, bill tracking and political briefings with Oracle, an AI guide for exploring records, questioning claims and understanding complex issues. Karma scores, community reflections and a personal Cabinet of MPs make accountability an ongoing, participatory experience, helping users follow political activity and its impact over time. Source records, AI assessments and community responses remain distinct and inspectable.
 
-The infrastructure spans Terraform-managed AWS services, ECS Fargate and EventBridge jobs, MySQL with Flyway migrations, and operational monitoring.
+I’ve built across the product, from its mobile and web interfaces to the data pipelines and services underneath. Kotlin/Ktor services ingest and organise political records, supported by embedding-based classification and source-grounded AI review. Structured outputs, independent verification steps and audit trails make generated analysis traceable, while durable background jobs and processing budgets control workload and cost.
+
+The infrastructure runs on Terraform-managed AWS services, including ECS Fargate and EventBridge jobs, with MySQL, Flyway migrations and operational monitoring.
 
 ### [Monzo Bot](https://github.com/AndriaNjoku/monzo-bot)
 An unofficial, open-source Android budgeting companion built around transaction exports, category budgets and optional AI assistance. A personal project I'm building for myself and sharing with others. React Native/TypeScript UI and Kotlin native integrations sit above deterministic, on-device financial calculations. AI tools are optional and read-only, with explicit consent rather than access to move money.
