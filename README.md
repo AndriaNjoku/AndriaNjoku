@@ -44,7 +44,9 @@ That idea runs through my engineering too. I want technology to do useful work a
 
 ## Tools I work with
 
-![Engineering stack: Android, Kotlin, Jetpack Compose, React Native and Expo; Ktor; TypeScript and React; OpenAI APIs, embeddings, batch inference, retrieval, structured outputs and evidence review; AWS, Terraform, ECS Fargate, EventBridge, MySQL, Flyway, REST and GraphQL; GitHub Actions, CloudWatch and New Relic.](assets/engineering-toolkit.svg)
+<a href="assets/engineering-toolkit.svg">
+  <img src="assets/engineering-toolkit.svg" alt="Engineering stack: Android, Kotlin, Jetpack Compose, React Native and Expo; Ktor; TypeScript and React; OpenAI APIs, embeddings, batch inference, retrieval, structured outputs and evidence review; AWS, Terraform, ECS Fargate, EventBridge, MySQL, Flyway, REST and GraphQL; GitHub Actions, CloudWatch and New Relic." width="480">
+</a>
 
 **Mobile app development:** Android · Kotlin · Jetpack Compose · React Native / Expo  
 **Backend & web:** Kotlin · Ktor · TypeScript · React · REST / GraphQL  
