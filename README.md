@@ -4,7 +4,7 @@
 
 My foundation is Android, Kotlin and Jetpack Compose. These days, I work across mobile, web, backend services and automation. The aim is the same: solve real problems with systems people can understand and trust.
 
-![Cyberpunk Monk interior: warm dining space, meditation corner, glass floor above the city and a cyan-lit technology workspace.](assets/cyberpunk-monk-interior-20261117.webp)
+![Cyberpunk Monk interior: warm dining space, meditation corner, glass floor above the city and a cyan-lit technology workspace.](assets/cyberpunk-monk-final-20261117-0232.png)
 
 ## Selected projects
 
